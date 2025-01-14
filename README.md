@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi , I'm Marzuk Entsie Sanni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Hanif Abubakari Nyame </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">I'm a passionate Frontend Developer and Data Engineer with a burning passion for web programming and data-driven solutions. 🕸️ My mission? Crafting scalable, user-friendly web apps and optimizing data workflows that captivate users and drive impactful insights. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.</h3>
+<h3 align="center">I'm a Frontend Developer and an aspiring DevOps Engineer passionate about building scalable, user-friendly web applications and optimizing data workflows. I'm driven by a desire to create impactful user experiences and data-driven insights, and I'm constantly exploring new technologies and frameworks to achieve these goals.
 
 ##
 
@@ -10,9 +10,9 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/Zukizuk)!.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/mfq17s)!.
 
-- 📫 How to reach me: **sannimarzuk@gmail.com**.
+- 📫 How to reach me: **hanifabubakari12345@gmail.com**.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
@@ -22,6 +22,7 @@
 ## 🏆 Goals:
 
 - 🚀 Gain experience in developing full-stack applications using **NextJS**.
+- 🌍 Become a DevOps Engineer at the end of the year.
 - 🚀 Become adept at designing and optimizing data workflows to ensure efficient data management.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 
@@ -34,7 +35,7 @@
 
 ## 📈 Achievements
 
-- 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
+- 🎉 I have successfully completed over 6 projects on Frontend Mentor and shared my code with others.
 - 🤝 I have provided feedback on projects on Frontend Mentor website.
 
 #
@@ -54,9 +55,9 @@ Let's turn your ideas into reality!
 
 <div align = "center">
     
-[![Gmail: Marzuk Entsie](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sannimarzuk@gmail.com)](mailto:sannimarzuk@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Zukizuk)](https://www.frontendmentor.io/profile/Zukizuk)&nbsp;
-[![Linkedin: Marzuk Entsie](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marzuk-entsie-0088aa2a8)](https://www.linkedin.com/in/marzuk-entsie-8b1890313/)
+[![Gmail: Hanif Abuabakri](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hanifabubakari12345@gmail.com)](mailto:sannimarzuk@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Mfq)](https://www.frontendmentor.io/profile/Zukizuk)&nbsp;
+[![Linkedin: Hanif Abuabakari](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hanif-Abubakari-0088aa2a8)](https://www.linkedin.com/in/marzuk-entsie-8b1890313/)
 <br>
 
 <div align = "center">
@@ -71,7 +72,6 @@ Let's turn your ideas into reality!
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 </details>
@@ -104,8 +104,6 @@ Let's turn your ideas into reality!
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-<br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
@@ -119,9 +117,9 @@ Let's turn your ideas into reality!
 
 <div align="center">
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=zukizuk&show_icons=true&theme=codeSTACKr)
+![my github stats](https://github-readme-stats.vercel.app/api?username=mfq17s&show_icons=true&theme=codeSTACKr)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zukizuk&layout=compact&theme=codeSTACKr)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfq17s&layout=compact&theme=codeSTACKr)
 
 </div>
 <br>
